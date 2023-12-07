@@ -1,1 +1,15 @@
-/* CSS stillerinizi buraya girin */
+.body {
+    background-color: blue; 
+}
+
+column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+altkısım {
+    display: flex
+    flex: 1;
+    justify-content: center;
+}
